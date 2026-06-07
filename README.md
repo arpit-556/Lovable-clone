@@ -41,7 +41,7 @@ An AI-powered backend system that generates full-stack web applications using LL
 
 ## 👨‍💻 Author
 
-**Shubham Prasad**
+**Arpit Dubey**
 Aspiring Backend Developer | Java | Spring Boot | AI Systems
 
 ---
