@@ -35,7 +35,7 @@ An AI-powered backend system that generates full-stack web applications using LL
 
 ## 🔗 Project Link
 
-👉 https://github.com/shubu072002/Lovable-Clone
+👉 https://github.com/arpit-556/Lovable-clone.git
 
 ---
 
